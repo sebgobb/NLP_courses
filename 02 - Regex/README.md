@@ -1,4 +1,4 @@
-# Regex exercises
+# Regex exercise
 ## Strategy
 The aim is to retrieve the full name of each character/actor contained in the "synopsis" column of the "movie_synopsis.xlsx" dataframe.
 
